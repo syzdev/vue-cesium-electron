@@ -1,4 +1,4 @@
-# vue-cesium-start
+# vue-cesium-electron
 
 一个基于Vue的简易Cesium开发模板
 
@@ -20,11 +20,11 @@ npm install
 ### 编译
 
 ```
-npm run serve
+npm run electron:serve
 ```
 
 ### 打包
 ```
-npm run build
+npm run electron:build
 ```
 
