@@ -28,3 +28,5 @@ npm run electron:serve
 npm run electron:build
 ```
 
+打包后会在项目目录下生成`dist_electron`文件夹，再打开其中的`win-unpacked`文件夹，该文件夹内就是window中的可执行程序。
+
